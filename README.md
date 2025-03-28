@@ -5,9 +5,9 @@ modelling of electrochemical processes. I have extensive experience in Li-ion ba
 surrogate models, and my expertise spans data analysis, and machine learning applications for energy systems.
 
 🔬 Currently working on:  
-- Modelling and simulation of lithium-ion batteries  
-- Statistical learning and neural networks
-- Data analytics  
+- Mathematical Modelling of Li-ion Batteries (neural network surrogate models, reduced-order methods for physics-based models, and equivalent circuit models)
+- Machine Learning and Data Analytics
+- Renewable Energy Harvesting, Conversion, and Storage
 
 ---
 
