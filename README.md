@@ -14,7 +14,7 @@ surrogate models, and my expertise spans data analysis, and machine learning app
 ## 🔧 Featured Projects
 
 ### [Li-ion-Batteries 🔋](https://github.com/benyaminemp/Li-ion-Batteries)
-A collection of battery models and learning algorithms developed during my PhD:
+A collection of battery models developed during my PhD:
 - **Single Particle Model (SPM)**: A lightweight electrochemical model
 - **Corrected SPM (cSPM)**: An extension of the SPM
 - **MLP for Battery Prediction**: Simple neural network for tasks like voltage forecasting
