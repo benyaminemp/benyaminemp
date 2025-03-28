@@ -20,14 +20,23 @@ A collection of battery models and learning algorithms developed during my PhD:
 - **MLP for Battery Prediction**: Simple neural network for tasks like voltage forecasting
 
 > More models will be added soon after related publications are out!
+---
 
+### [Particle Swarm Optimisation (PSO)](https://github.com/benyaminemp/Particle-Swarm-Optimisation)
+An educational Jupyter Notebook showcasing the **PSO algorithm** in action:
+- 📈 **Customisable Cost Function**: Easily adapt it to your optimization problem
+- 🧠 **Swarm Intelligence**: Position and velocity updates using inertia, cognitive and social components
+- 📊 **Convergence Visualisation**: Track the best solution over iterations
+- 📝 **Markdown Guidance**: Step-by-step explanations make it beginner-friendly
+
+> Great for building on top of the PSO framework.
 ---
 
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/benyamin-ebrahimpour/)
 - 📧 Email: benyamin.ebrahimpour [at] port.ac.uk
-- 🧠 Google Scholar: [Benyamin Ebrahimpour](https://scholar.google.com)
+- 🧠 Google Scholar: [Benyamin Ebrahimpour](https://scholar.google.com/citations?user=SFRMhvAAAAAJ&hl=en))
 
 ---
 
