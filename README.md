@@ -13,14 +13,14 @@ surrogate models, and my expertise spans data analysis, and machine learning app
 
 ## 🔧 Featured Projects
 
-### [Data analytics](https://github.com/benyaminemp/Data-Analytics)
+### [Data Analytics](https://github.com/benyaminemp/Data-Analytics)
 An educational Jupyter Notebook showcasing the **Data analytics** in action:
 - **MLP for Battery Prediction**: A simple neural network for tasks like voltage forecasting
 
 
 > More projects will be added soon!
 ---
-### [Li-ion-Batteries 🔋](https://github.com/benyaminemp/Li-ion-Batteries)
+### [Li-ion Batteries 🔋](https://github.com/benyaminemp/Li-ion-Batteries)
 A collection of battery models developed during my PhD:
 - **Single Particle Model (SPM)**: A lightweight electrochemical model
 - **Corrected SPM (cSPM)**: An extension of the SPM
