@@ -13,7 +13,7 @@ surrogate models, and my expertise spans data analysis, and machine learning app
 
 ## 🔧 Featured Projects
 
-### [Data Analytics](https://github.com/benyaminemp/Data-Analytics)
+### [Data Analytics 📈](https://github.com/benyaminemp/Data-Analytics)
 An educational Jupyter Notebook showcasing the **Data analytics** in action:
 - **Machine Learning Model for Prediction**: A simple neural network for forecasting
 
@@ -29,7 +29,7 @@ A collection of battery models developed during my PhD:
 > More models will be added soon after related publications are out!
 ---
 
-### [Particle Swarm Optimisation (PSO)](https://github.com/benyaminemp/Particle-Swarm-Optimisation)
+### [Particle Swarm Optimisation (PSO) 📈](https://github.com/benyaminemp/Particle-Swarm-Optimisation)
 An educational Jupyter Notebook showcasing the **PSO algorithm** in action:
 - 📈 **Customisable Cost Function**: Easily adapt it to your optimization problem
 - 🧠 **Swarm Intelligence**: Position and velocity updates using inertia, cognitive and social components
