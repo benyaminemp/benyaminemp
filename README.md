@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Benyamin Ebrahimpour
 
-Welcome to my GitHub portfolio! I'm a PhD student in applied mathematics with a multidisciplinary background in battery modelling, neural networks, renewable energy systems, and mathematical 
+Welcome to my GitHub portfolio! I hold a PhD in applied mathematics with a multidisciplinary background in battery modelling, neural networks, renewable energy systems, and mathematical 
 modelling of electrochemical processes. I have extensive experience in Li-ion battery modelling, including reduced-order physics-based models, Bayesian inference, and the development of neural network 
 surrogate models, and my expertise spans data analysis, and machine learning applications for energy systems.
 
