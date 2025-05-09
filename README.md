@@ -18,7 +18,7 @@ An educational Jupyter Notebook showcasing the **Data analytics** in action:
 - **MLP for Battery Prediction**: A simple neural network for tasks like voltage forecasting
 
 
-> Great for building on top of the PSO framework.
+> More projects will be added soon!
 ---
 ### [Li-ion-Batteries 🔋](https://github.com/benyaminemp/Li-ion-Batteries)
 A collection of battery models developed during my PhD:
