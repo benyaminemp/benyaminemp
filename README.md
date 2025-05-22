@@ -16,6 +16,7 @@ surrogate models, and my expertise spans data analysis, and machine learning app
 ### [Data Analytics 📈](https://github.com/benyaminemp/Data-Analytics)
 An educational Jupyter Notebook showcasing the **Data analytics** in action:
 - **Machine Learning Model for Prediction**: A simple neural network for forecasting
+- **Data Visualisation**: A Tableau dashboard for Electric Vehicles (EVs) data visualisation
 
 
 > More projects will be added soon!
