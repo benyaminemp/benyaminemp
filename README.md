@@ -47,12 +47,49 @@ Unless otherwise noted, all my work is released under the MIT License.
 
 ## 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge\&logo=python\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge\&logo=PyTorch\&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23E16737.svg?style=for-the-badge\&logo=Mathworks\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge\&logo=Tableau\&logoColor=white)
+### 👨‍💻 Programming Languages  
+<p align="left">
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=R&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Julia-9558B2.svg?style=for-the-badge&logo=julia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maple-%23C60000.svg?style=for-the-badge&logoColor=white"/>
+</p>
+
+---
+
+### 🤖 Machine Learning & AI  
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-%23E16737.svg?style=for-the-badge&logo=Mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Simulink-%23E16737.svg?style=for-the-badge&logo=Mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20ML-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&color=525252"/>
+</p>
+
+---
+
+### 📊 Data Analytics & Visualisation  
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black"/>
+</p>
+
+---
+
+### ☁️ Platforms & Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
 
 ---
 
