@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! I hold a PhD in applied mathematics with a multi
 modelling of electrochemical processes. I have extensive experience in Li-ion battery modelling, including reduced-order physics-based models, Bayesian inference, and the development of neural network 
 surrogate models, and my expertise spans data analysis, and machine learning applications for energy systems.
 
-🔬 Currently working on:  
+🔬 Currently working on:   
 - 📊 Mathematical Modelling of Li-ion Batteries (neural network surrogate models, reduced-order methods for physics-based models, and equivalent circuit models)
 - 🤖 Machine Learning and Data Analytics
 - 🌍 Renewable Energy Harvesting, Conversion, and Storage
@@ -62,6 +62,16 @@ Unless otherwise noted, all my work is released under the MIT License.
 ![](https://github-readme-stats.vercel.app/api?username=benyaminemp\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=benyaminemp\&theme=dark\&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=benyaminemp\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=true\&layout=compact)
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Dev Quote" />
+</div>
+
+
 
 ---
 ## 📫 Let's Connect
