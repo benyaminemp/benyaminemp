@@ -64,14 +64,12 @@ Unless otherwise noted, all my work is released under the MIT License.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=benyaminemp\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=true\&layout=compact)
 
 ---
-
-✨ Thanks for visiting my profile! Feel free to explore my projects and connect with me.
-
----
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/benyamin-ebrahimpour/)
 - 📧 Email: benyamin.ebrahimpour [at] port.ac.uk
 - 🧠 Google Scholar: [Benyamin Ebrahimpour](https://scholar.google.com/citations?user=SFRMhvAAAAAJ&hl=en))
 ---
+✨ Thanks for visiting my profile! Feel free to explore my projects and connect with me.
+
 
