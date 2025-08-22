@@ -67,6 +67,7 @@ Unless otherwise noted, all my work is released under the MIT License.
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/MATLAB-%23E16737.svg?style=for-the-badge&logo=Mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Simulink-%23E16737.svg?style=for-the-badge&logo=Mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20ML-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white"/>
