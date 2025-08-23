@@ -44,7 +44,7 @@ Interactive notebook showcasing:
 
 ---
 
-### [🎓 Public Lectures](https://github.com/benyaminemp/Public-Lectures)  
+### [🎓 Lectures](https://github.com/benyaminemp/Lectures)  
 A collection of my talks and tutorials:  
 - AI & neural networks
 - Neural networks for energy systems  
