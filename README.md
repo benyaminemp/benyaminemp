@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benyaminemp&label=Profile%20views&color=0e75b6&style=flat" alt="benyaminemp" /> </p>
 
-🎓 **PhD in Applied Mathematics** | 🔋 **Battery Modelling** | 🤖 **Neural Networks** | 🌍 **Renewable Energy Systems**  
+🎓 **PhD in Applied Mathematics** | 🤖 **Data Science & AI/ML**  | 🔋 **Battery Modelling** | 🌍 **Renewable Energy Systems**  
 
 Welcome to my GitHub portfolio!  
 I hold a PhD in **applied mathematics** with a multidisciplinary background in **battery modelling, electrochemical systems, neural networks, renewable energy, and data analytics**.  
