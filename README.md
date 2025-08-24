@@ -51,7 +51,7 @@ A collection of my lectures, talks and tutorials:
 
 ---
 
-### [🔧 Mini projects](https://github.com/benyaminemp/mini-projects)  
+### [🔧 Mini Projects](https://github.com/benyaminemp/mini-projects)  
 A collection of my self-study mini-projects and tutorials:  
 - **AI & neural networks**
 - **Neural networks for energy systems**  
