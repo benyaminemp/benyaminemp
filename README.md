@@ -45,10 +45,16 @@ Interactive notebook showcasing:
 ---
 
 ### [🎓 Lectures](https://github.com/benyaminemp/Lectures)  
-A collection of my talks and tutorials:  
-- AI & neural networks
-- Neural networks for energy systems  
-- Data analytics & visualisation  
+A collection of my lectures, talks and tutorials:  
+- **Maths-related modules**
+- **AI & neural networks**
+
+---
+
+### [🔧 Mini-projects](https://github.com/benyaminemp/mini-projects)  
+A collection of my self-study mini-projects and tutorials:  
+- **AI & neural networks**
+- **Neural networks for energy systems**  
 
 ---
 
