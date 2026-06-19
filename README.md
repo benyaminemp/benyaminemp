@@ -30,13 +30,6 @@ Jupyter notebooks + Tableau dashboards:
 
 ---
 
-### [🔋 Li-ion Batteries](https://github.com/benyaminemp/Li-ion-Batteries)  
-A collection of battery models from my PhD:  
-- ⚡ **Physics-based Model (SPM, cSPM)**  
-- 🧠 **MLP Sorrugate-based Model for Battery Prediction**  
-
----
-
 ### [📊 Particle Swarm Optimisation (PSO)](https://github.com/benyaminemp/Particle-Swarm-Optimisation)  
 Interactive notebook showcasing:  
 - 📈 **Customisable Cost Functions**  
